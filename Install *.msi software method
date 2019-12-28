@@ -1,0 +1,2 @@
+windows powershell(管理员身份运行)
+msiexec /package +msi文件路径和文件名
